@@ -173,3 +173,6 @@ function toggleActive() {
     };
   }
 }
+
+var totlQues = questions.length;
+document.querySelector("span.totalPoints").innerHTML = totlQues * 10;
