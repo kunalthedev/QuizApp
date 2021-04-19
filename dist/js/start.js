@@ -13,7 +13,7 @@ function submitForm(e) {
   }
   function start(){
     // let check = document.getElementById("checkbox").checked
-    if(document.getElementById("checkbox").checked ==true){
-      location.href="quiz.html";
-    }
+    // if(document.getElementById("checkbox").checked ==true){
+    // }
+    location.href="quiz.html";
   }
